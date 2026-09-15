@@ -1,0 +1,3 @@
+# Cell 01 Broken AI Rescue Cell
+$49. 14-day refund. 90 minutes.
+Contains DIAGNOSTIC, SCORECARD, RITUAL, EXCEPTION-LOG, PROMPTS, KILL-RULES, HANDOFF.
