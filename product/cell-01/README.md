@@ -1,3 +1,4 @@
-# Cell 01 Broken AI Rescue Cell
-$49. 14-day refund. 90 minutes.
-Contains DIAGNOSTIC, SCORECARD, RITUAL, EXCEPTION-LOG, PROMPTS, KILL-RULES, HANDOFF.
+# Cell 01 fulfillment
+
+The full pack is delivered after a paid Stripe session for NC-CELL-01.
+Public repo is the storefront, not the download.
