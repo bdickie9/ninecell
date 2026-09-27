@@ -1,7 +1,7 @@
 # NINECELL Constitution
 
 Trade name: NINECELL
-Operating entity for now: Flint Tech Global Solutions
+Operating entity for now: Bradley S Dickover d/b/a Flinttech (sole proprietor). Flint Tech Global Solutions LLC is being formed and is not registered yet
 Founder: Bradley Dickover
 Code home: https://github.com/bdickie9/ninecell
 This company is not FlintTech Metro Permit Leads and not Twelve Minute Desk.
